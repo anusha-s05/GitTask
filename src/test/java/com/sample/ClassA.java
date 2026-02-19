@@ -13,4 +13,16 @@ public class ClassA {
 	public void mathod3() {
 		System.out.println("method 3");
 	}
+	
+	public void mathod4() {
+		System.out.println("method 4");
+	}
+	
+	public void mathod5() {
+		System.out.println("method 5");
+	}
+	
+	public void mathod6() {
+		System.out.println("method 6");
+	}
 }
